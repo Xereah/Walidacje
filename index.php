@@ -24,7 +24,7 @@ class UserValidator
 // Przyklad uzycia
 $validator = new UserValidator();
 
-$email = "patrykstruzik@onet.pl";
+$email = "test@test.eu";
 $password = "SilneHaslo123!@#";
 
 // Walidacja adresu e-mail
